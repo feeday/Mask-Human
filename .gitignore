@@ -1,0 +1,14 @@
+.portrait_bootstrap/
+.portrait_env/
+.portrait_python/
+.venv/
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+*.onnx
+*.log
+*.mask.png
+人像蒙版_*/
+.test-output/
